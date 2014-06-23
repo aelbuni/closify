@@ -1,0 +1,1 @@
+Do not delete this folder, this is where the photos and thumbnails should be stored.
