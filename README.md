@@ -4,7 +4,7 @@
 Here is the Closify official page [Demo](http://www.itechflare.com/closify "Closify page").
 ----------------------------
 
-![sample](http://www.itechflare.com/main/wp-content/uploads/2014/06/closify.png)
+![sample](https://github.com/aelbuni/closify/blob/master/closify.jpg)
 
 Client Side
 -----------
