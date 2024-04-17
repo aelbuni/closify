@@ -1,9 +1,6 @@
 ﻿Closify v1.0.5
 =======
 
-Here is the Closify official page [Demo](http://www.itechflare.com/closify "Closify page").
-----------------------------
-
 ![sample](https://github.com/aelbuni/closify/blob/master/closify.jpg)
 
 Client Side
